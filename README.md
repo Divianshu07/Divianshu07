@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Divianshu Chandel
 
-<!--
-**Divianshu07/Divianshu07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year CSE Student | 💻 Java Developer | 📈 DSA Enthusiast  
+🚀 Passionate about solving problems and building real-world projects.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Java | Data Structures & Algorithms  
+- HTML | CSS | MySQL  
+- Git & GitHub | VS Code | IntelliJ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What I'm Working On
+- 🔸 Learning DSA daily
+- 🔸 Building Java-based mini projects
+- 🔸 Preparing for campus placements
+
+## 📊 GitHub Stats
+![Divianshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Divianshu07&show_icons=true&theme=tokyonight)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/divianshu-chandel-239a171ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- 📧 Email: divianshuchandel@gmail.com
